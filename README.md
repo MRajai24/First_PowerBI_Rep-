@@ -63,7 +63,7 @@
 
 ### Teil 2
 
-10. **Balkendiagramm & Tabelle**
+1. **Balkendiagramm & Tabelle**
    - Erstelle eine neue Seite
    - Erstelle eine Tabelle mit den Spalten: Artikelname, Artikelposition, Datum
    - Sortiere die Tabelle aufsteigend nach Datum und Artikelposition
@@ -71,7 +71,7 @@
    - Erstelle ein gestapeltes Balkendiagramm mit Anzahl der Verkäufe nach Wochentagen
    - Wähle einen passenden Titel und formatiere das Diagramm nach deinen Wünschen
 
-11. **Drillthrough erstellen**
+2. **Drillthrough erstellen**
    - Erstelle einen Drillthrough zu Seite 2 über die Spalte „Name“
    - Erstelle ein Kartenvisual mit der Spalte „Kunde“
    - Ändere die Feldbeschriftung hier zu „ausgewählter Kunde“

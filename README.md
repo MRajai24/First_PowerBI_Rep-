@@ -76,4 +76,5 @@
    - Erstelle ein Kartenvisual mit der Spalte „Kunde“
    - Ändere die Feldbeschriftung hier zu „ausgewählter Kunde“
  
- ![Screenshot 2024-02-27 113134](https://github.com/MRajai24/Test/assets/77150117/e911d0ee-baff-47ac-8710-642bd8c5250b)
+ ![Screenshot 2024-02-27 174203](https://github.com/MRajai24/First_PowerBI_Rep-/assets/77150117/9e33cee8-43c9-4c54-9f02-2dfa8d3c080a)
+

@@ -46,33 +46,31 @@
 
 ### Teil 1
 
-7. **Verkaufsvisualisierung nach Produktkategorie**
+1. **Verkaufsvisualisierung nach Produktkategorie**
    - Kreisdiagramm mit „Kategorie“ und „Transaktions-ID“
    - Erstelle einen Drilldown zu „Unterkategorie“ und „Produkt“
    - Entferne die Legende und wähle als Datenbeschriftung „Kategorie + Prozentwert“
    - Wähle einen passenden Titel
 
-8. **Gestapeltes Balkendiagramm**
+2. **Gestapeltes Balkendiagramm**
    - Visualisiere die Top-10 Kunden nach Menge der gekauften Artikel
    - Wähle einen passenden Titel, Datenbeschriftung und Datenfarbe
    - Blende die Titel der Achsen aus
 
-9. **Filter nach Produkten & Datum**
+3. **Filter nach Produkten & Datum**
    - Aktiviere die Filterung über Produkte mit Suchfunktion
    - Erstelle einen Datumsfilter
 
 ### Teil 2
 
 1. **Balkendiagramm & Tabelle**
-   - Erstelle eine neue Seite
    - Erstelle eine Tabelle mit den Spalten: Artikelname, Artikelposition, Datum
    - Sortiere die Tabelle aufsteigend nach Datum und Artikelposition
    - Deaktiviere die Anzeige der unteren „Gesamt“-Anzeige in der Tabelle
-   - Erstelle ein gestapeltes Balkendiagramm mit Anzahl der Verkäufe nach Wochentagen
-   - Wähle einen passenden Titel und formatiere das Diagramm nach deinen Wünschen
+   - Erstelle ein gestapeltes Liniendiagramm mit Anzahl der Verkäufe nach Wochentagen
 
 2. **Drillthrough erstellen**
-   - Erstelle einen Drillthrough zu Seite 2 über die Spalte „Name“
+   - Erstelle einen Drillthrough über die Spalte „Name“
    - Erstelle ein Kartenvisual mit der Spalte „Kunde“
    - Ändere die Feldbeschriftung hier zu „ausgewählter Kunde“
  

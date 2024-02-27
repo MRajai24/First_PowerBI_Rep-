@@ -1,4 +1,4 @@
-# Power BI - Verkaufsperformance-Analyse: Datenintegration, Modellierung und Visualisierung
+# Verkaufsperformance-Analyse: Datenintegration, Modellierung und Visualisierung
 
 ## Datenaufbereitung im Power Query Editor
 
